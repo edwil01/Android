@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_com" type="drawable">@drawable/nom_bre</item>
+    <item name="image_comp" type="drawable">@drawable/tele_fono</item>
+    <item name="image_phone" type="drawable">@drawable/ema_il</item>
+</resources>
